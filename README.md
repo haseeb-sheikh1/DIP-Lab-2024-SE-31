@@ -1,8 +1,8 @@
-# Digital Image Processing Lab 📷⚙️
+# Digital Image Processing Lab 
 
 This repository contains all the lab tasks, practical implementations, and reports for the **Digital Image Processing Lab** course in the 5th Semester of the Software Engineering program.
 
-## 👨‍🎓 Student Details
+##  Student Details
 - **Name:** Sheikh Haseeb-ur-Rehman
 - **Roll Number:** 2024-SE-31
 - **Session:** 2024-28 (SE)
